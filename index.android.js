@@ -13,7 +13,6 @@ const App = () => {
   return (
     <View>
       <Header headerText={'Albums'} />
-      <Text>Hello World</Text>
       <AlbumList />
     </View>
   );
